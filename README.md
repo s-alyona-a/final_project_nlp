@@ -9,19 +9,19 @@
 
 Провели эксперименты по применению:
 
-- rule-based подхода
+**- rule-based подхода**
 
 ![{29FEF8C3-7015-4876-A64F-B27497C2E73F}](https://github.com/user-attachments/assets/c6795b9c-8041-4943-b8a9-79b03b4db6ca)
 
 
-- ML
+**- ML**
 
   3 модели построения эмбеддингов + logreg
 
   ![{4950B758-6296-439F-8D05-DBBFA52A0E42}](https://github.com/user-attachments/assets/4def01bf-856b-4765-8e44-3fd68286f18a)
 
   
-- DL
+**- DL**
 
   Нейросетка с 1-2 слоями LSTM и лемматизированными/не лемматизированными текстами
 
@@ -30,15 +30,15 @@
 
   DeepPavlov/rubert-base-cased
   
-- LLM:
+**- LLM:**
 
   Попробовали использовать промпты без и с chain of thoughts
 
-  mistral
+  **mistral**
 
   ![{45E1F39A-CE4B-4049-8ECB-6131CB0D57B9}](https://github.com/user-attachments/assets/54f64dc3-96e5-485c-bc31-73c51765b286)
 
 
-  gigachat
+  **gigachat**
 
   ![{1E70388A-0ED7-4D5D-86D1-3AC0F97659E7}](https://github.com/user-attachments/assets/ce0327bb-4082-42ee-b41b-16515e50395a)
