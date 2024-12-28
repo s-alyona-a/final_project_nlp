@@ -40,5 +40,5 @@
 
 
   gigachat
-  
-![{1E70388A-0ED7-4D5D-86D1-3AC0F97659E7}](https://github.com/user-attachments/assets/ce0327bb-4082-42ee-b41b-16515e50395a)
+
+  ![{1E70388A-0ED7-4D5D-86D1-3AC0F97659E7}](https://github.com/user-attachments/assets/ce0327bb-4082-42ee-b41b-16515e50395a)
